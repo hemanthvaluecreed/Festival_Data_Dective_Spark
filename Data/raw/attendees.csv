@@ -1,0 +1,1001 @@
+attendee_id,ticket_type,age_group,home_city
+A00001,VIP,25-34,Bengaluru
+A00002,Student,18-24,Mumbai
+A00003,general,25-34,Hyderabad
+A00004,General,,Hyderabad
+A00005,VIP,18-24,Hyderabad
+A00006,Student,18-24,Mumbai
+A00007,Student,,
+A00008,VIP,unknown,Chennai
+A00009,VIP ,unknown,
+A00010,VIP,45+,
+A00011,VIP,18-24,Bengaluru
+A00012,VIP ,45+,Delhi
+A00013,Day Pass,45+,
+A00014,VIP ,18-24,Bengaluru
+A00015,General,45+,Delhi
+A00016,General,25-34,Mumbai
+A00017,VIP,unknown,
+A00018,VIP,45+,Chennai
+A00019,Student,45+,Mumbai
+A00020,General,45+,Bengaluru
+A00021,General,,Hyderabad
+A00022,General,25-34,Chennai
+A00023,Day Pass,45+,
+A00024,VIP,45+,Hyderabad
+A00025,VIP,45+,Hyderabad
+A00026,Day Pass,35-44,
+A00027,Student,45+,
+A00028,VIP,25-34,Pune
+A00029,VIP,18-24,Hyderabad
+A00030,VIP ,35-44,Hyderabad
+A00031,General,unknown,
+A00032,general,unknown,Chennai
+A00033,General,unknown,Bengaluru
+A00034,VIP,18-24,Bengaluru
+A00035,VIP ,25-34,
+A00036,General,unknown,Mumbai
+A00037,general,unknown,Hyderabad
+A00038,general,18-24,
+A00039,VIP ,unknown,Delhi
+A00040,Student,25-34,Delhi
+A00041,VIP,35-44,
+A00042,VIP,,Pune
+A00043,Day Pass,35-44,Bengaluru
+A00044,General,45+,Bengaluru
+A00045,General,unknown,Mumbai
+A00046,general,35-44,Chennai
+A00047,Student,18-24,Mumbai
+A00048,Student,35-44,Chennai
+A00049,Day Pass,unknown,Pune
+A00050,general,,Hyderabad
+A00051,VIP ,unknown,Pune
+A00052,VIP ,18-24,Chennai
+A00053,Student,18-24,Bengaluru
+A00054,VIP ,unknown,Chennai
+A00055,Student,35-44,Mumbai
+A00056,VIP ,35-44,Mumbai
+A00057,VIP ,,Pune
+A00058,general,45+,Pune
+A00059,General,18-24,
+A00060,Student,18-24,Hyderabad
+A00061,Student,25-34,Pune
+A00062,VIP,,
+A00063,general,,
+A00064,general,18-24,Bengaluru
+A00065,General,,Chennai
+A00066,general,18-24,Delhi
+A00067,general,unknown,Chennai
+A00068,Day Pass,25-34,Hyderabad
+A00069,Student,35-44,Hyderabad
+A00070,Student,25-34,Mumbai
+A00071,VIP ,18-24,Delhi
+A00072,general,45+,Chennai
+A00073,VIP,25-34,Chennai
+A00074,Day Pass,18-24,Chennai
+A00075,VIP ,35-44,
+A00076,VIP ,,Mumbai
+A00077,Student,25-34,Bengaluru
+A00078,Day Pass,18-24,
+A00079,VIP,25-34,
+A00080,Student,35-44,Mumbai
+A00081,VIP,18-24,Mumbai
+A00082,Day Pass,35-44,Pune
+A00083,General,35-44,Delhi
+A00084,VIP ,unknown,
+A00085,VIP ,unknown,Delhi
+A00086,General,18-24,Pune
+A00087,VIP,unknown,Pune
+A00088,General,18-24,
+A00089,Student,,Delhi
+A00090,Day Pass,unknown,Bengaluru
+A00091,Day Pass,unknown,Mumbai
+A00092,Student,18-24,
+A00093,General,unknown,Mumbai
+A00094,Student,45+,Bengaluru
+A00095,VIP ,35-44,Delhi
+A00096,VIP ,18-24,Pune
+A00097,general,35-44,
+A00098,Student,45+,Pune
+A00099,general,25-34,Mumbai
+A00100,Day Pass,,
+A00101,VIP ,,Chennai
+A00102,general,unknown,Pune
+A00103,Day Pass,unknown,Hyderabad
+A00104,Student,35-44,Mumbai
+A00105,Day Pass,unknown,Delhi
+A00106,Day Pass,45+,
+A00107,VIP ,25-34,
+A00108,VIP ,25-34,Bengaluru
+A00109,Student,unknown,Delhi
+A00110,General,25-34,Pune
+A00111,VIP,25-34,Chennai
+A00112,General,18-24,Mumbai
+A00113,Day Pass,unknown,Bengaluru
+A00114,Day Pass,45+,Mumbai
+A00115,VIP ,,
+A00116,Day Pass,45+,Mumbai
+A00117,VIP,,Hyderabad
+A00118,General,45+,Mumbai
+A00119,VIP,,
+A00120,General,unknown,Mumbai
+A00121,General,45+,Chennai
+A00122,Day Pass,,Delhi
+A00123,Day Pass,unknown,
+A00124,general,45+,Chennai
+A00125,VIP ,45+,
+A00126,Student,25-34,Pune
+A00127,general,45+,Mumbai
+A00128,Student,45+,Bengaluru
+A00129,VIP ,35-44,Mumbai
+A00130,Student,35-44,Delhi
+A00131,general,18-24,Chennai
+A00132,VIP,25-34,
+A00133,VIP ,25-34,Mumbai
+A00134,General,45+,
+A00135,Student,unknown,
+A00136,Day Pass,18-24,Mumbai
+A00137,Day Pass,45+,Hyderabad
+A00138,general,45+,
+A00139,General,35-44,Pune
+A00140,Day Pass,45+,Mumbai
+A00141,Day Pass,25-34,Pune
+A00142,Day Pass,45+,Hyderabad
+A00143,Day Pass,35-44,
+A00144,VIP ,25-34,
+A00145,VIP,unknown,Hyderabad
+A00146,Day Pass,unknown,Hyderabad
+A00147,General,,
+A00148,VIP,45+,Chennai
+A00149,General,35-44,
+A00150,Student,25-34,
+A00151,Student,35-44,
+A00152,Student,45+,Pune
+A00153,General,45+,Hyderabad
+A00154,VIP ,unknown,Hyderabad
+A00155,Student,25-34,Bengaluru
+A00156,VIP ,18-24,Hyderabad
+A00157,VIP,25-34,Hyderabad
+A00158,general,25-34,Mumbai
+A00159,VIP,45+,Bengaluru
+A00160,general,25-34,
+A00161,VIP ,35-44,Delhi
+A00162,VIP,unknown,Bengaluru
+A00163,VIP,35-44,Bengaluru
+A00164,general,18-24,Pune
+A00165,general,,
+A00166,Day Pass,,Mumbai
+A00167,General,unknown,Mumbai
+A00168,General,,Pune
+A00169,VIP ,unknown,Bengaluru
+A00170,general,18-24,Delhi
+A00171,general,45+,Delhi
+A00172,General,unknown,Delhi
+A00173,General,45+,
+A00174,General,45+,Delhi
+A00175,VIP ,45+,Chennai
+A00176,Day Pass,25-34,Pune
+A00177,general,unknown,
+A00178,Day Pass,45+,Pune
+A00179,Student,25-34,Bengaluru
+A00180,Student,45+,Mumbai
+A00181,Day Pass,unknown,
+A00182,Student,18-24,
+A00183,Student,25-34,
+A00184,VIP,35-44,Pune
+A00185,Student,35-44,Pune
+A00186,general,18-24,Mumbai
+A00187,General,25-34,
+A00188,Day Pass,unknown,Mumbai
+A00189,VIP ,45+,
+A00190,Day Pass,18-24,Bengaluru
+A00191,Student,25-34,
+A00192,VIP ,25-34,Pune
+A00193,VIP ,unknown,Delhi
+A00194,Day Pass,unknown,Delhi
+A00195,Day Pass,,Delhi
+A00196,Student,,
+A00197,Student,35-44,Pune
+A00198,VIP,18-24,Mumbai
+A00199,Student,18-24,Chennai
+A00200,VIP,25-34,
+A00201,Student,,Pune
+A00202,General,25-34,Pune
+A00203,VIP,35-44,Chennai
+A00204,Student,18-24,Chennai
+A00205,Student,18-24,Hyderabad
+A00206,general,35-44,Chennai
+A00207,VIP ,45+,Bengaluru
+A00208,General,unknown,Pune
+A00209,Day Pass,45+,
+A00210,Student,25-34,Hyderabad
+A00211,Student,45+,Bengaluru
+A00212,General,45+,
+A00213,General,unknown,Hyderabad
+A00214,VIP,25-34,Pune
+A00215,General,25-34,Bengaluru
+A00216,general,45+,Mumbai
+A00217,general,45+,
+A00218,Day Pass,35-44,
+A00219,Student,unknown,Hyderabad
+A00220,general,,Bengaluru
+A00221,VIP,,Mumbai
+A00222,Student,,Bengaluru
+A00223,VIP,25-34,Chennai
+A00224,general,18-24,Chennai
+A00225,General,45+,
+A00226,VIP ,unknown,
+A00227,Student,18-24,Mumbai
+A00228,Student,,Pune
+A00229,VIP ,45+,Bengaluru
+A00230,VIP ,25-34,Pune
+A00231,VIP ,unknown,Mumbai
+A00232,Day Pass,18-24,Mumbai
+A00233,VIP ,25-34,Pune
+A00234,VIP,18-24,Hyderabad
+A00235,VIP,35-44,Pune
+A00236,Day Pass,18-24,
+A00237,VIP ,35-44,
+A00238,Student,unknown,
+A00239,Day Pass,18-24,Hyderabad
+A00240,Day Pass,,Delhi
+A00241,general,35-44,Hyderabad
+A00242,General,25-34,Hyderabad
+A00243,VIP ,35-44,Hyderabad
+A00244,VIP,45+,
+A00245,Student,25-34,
+A00246,VIP ,45+,Bengaluru
+A00247,Day Pass,35-44,
+A00248,Student,35-44,Bengaluru
+A00249,VIP,35-44,
+A00250,VIP ,45+,Pune
+A00251,VIP ,45+,Hyderabad
+A00252,Day Pass,18-24,Delhi
+A00253,Student,35-44,Bengaluru
+A00254,Day Pass,unknown,Hyderabad
+A00255,VIP ,unknown,
+A00256,Day Pass,18-24,Mumbai
+A00257,general,35-44,
+A00258,VIP ,45+,Hyderabad
+A00259,VIP,35-44,Chennai
+A00260,Student,45+,
+A00261,General,18-24,Mumbai
+A00262,VIP ,25-34,Pune
+A00263,general,18-24,
+A00264,General,25-34,Bengaluru
+A00265,Day Pass,18-24,Chennai
+A00266,Day Pass,,Pune
+A00267,general,,Pune
+A00268,Day Pass,45+,
+A00269,VIP,45+,Chennai
+A00270,Day Pass,25-34,Chennai
+A00271,General,35-44,
+A00272,Student,unknown,Pune
+A00273,General,35-44,Pune
+A00274,general,unknown,
+A00275,VIP,45+,
+A00276,Student,35-44,
+A00277,Day Pass,35-44,Mumbai
+A00278,VIP ,25-34,
+A00279,VIP,45+,Hyderabad
+A00280,Student,,
+A00281,VIP ,45+,
+A00282,VIP ,,Chennai
+A00283,Day Pass,18-24,Chennai
+A00284,general,unknown,Delhi
+A00285,General,45+,Bengaluru
+A00286,general,45+,Hyderabad
+A00287,VIP ,25-34,
+A00288,VIP ,25-34,Bengaluru
+A00289,Day Pass,35-44,Delhi
+A00290,general,,
+A00291,VIP ,18-24,Delhi
+A00292,VIP ,unknown,
+A00293,Student,,
+A00294,general,18-24,Bengaluru
+A00295,VIP,,Pune
+A00296,VIP,,Bengaluru
+A00297,Day Pass,18-24,Bengaluru
+A00298,Day Pass,25-34,Pune
+A00299,General,18-24,Delhi
+A00300,General,35-44,Delhi
+A00301,Student,45+,Chennai
+A00302,VIP,unknown,
+A00303,general,,Chennai
+A00304,VIP,25-34,Bengaluru
+A00305,general,45+,Mumbai
+A00306,Day Pass,unknown,Chennai
+A00307,VIP,45+,Pune
+A00308,Day Pass,35-44,Hyderabad
+A00309,Day Pass,35-44,Chennai
+A00310,General,45+,Delhi
+A00311,general,35-44,
+A00312,VIP ,35-44,
+A00313,Student,25-34,
+A00314,Day Pass,18-24,Mumbai
+A00315,Day Pass,unknown,Delhi
+A00316,general,35-44,Pune
+A00317,General,,
+A00318,Student,18-24,Hyderabad
+A00319,general,,
+A00320,Student,25-34,Delhi
+A00321,VIP,,Mumbai
+A00322,general,35-44,Chennai
+A00323,VIP ,18-24,Hyderabad
+A00324,Student,45+,Hyderabad
+A00325,general,35-44,Chennai
+A00326,General,35-44,Delhi
+A00327,VIP ,45+,Chennai
+A00328,VIP,25-34,Delhi
+A00329,general,unknown,Pune
+A00330,VIP,35-44,
+A00331,Student,,Delhi
+A00332,General,45+,Bengaluru
+A00333,VIP,25-34,
+A00334,general,35-44,Bengaluru
+A00335,Day Pass,18-24,Pune
+A00336,general,18-24,
+A00337,Student,,Pune
+A00338,general,45+,Delhi
+A00339,General,,Mumbai
+A00340,Day Pass,18-24,Delhi
+A00341,general,25-34,Bengaluru
+A00342,VIP ,45+,Pune
+A00343,VIP ,45+,Bengaluru
+A00344,VIP,18-24,Hyderabad
+A00345,Student,45+,Bengaluru
+A00346,General,25-34,Chennai
+A00347,Day Pass,45+,Delhi
+A00348,VIP ,,
+A00349,general,,Chennai
+A00350,Day Pass,,Bengaluru
+A00351,Day Pass,unknown,
+A00352,Student,18-24,Delhi
+A00353,VIP,45+,
+A00354,VIP,35-44,Bengaluru
+A00355,VIP ,35-44,Delhi
+A00356,General,45+,Pune
+A00357,VIP,18-24,
+A00358,General,,Mumbai
+A00359,VIP ,,Hyderabad
+A00360,General,35-44,Mumbai
+A00361,VIP,unknown,Mumbai
+A00362,General,unknown,Mumbai
+A00363,general,25-34,Mumbai
+A00364,Student,25-34,Hyderabad
+A00365,Student,25-34,Chennai
+A00366,general,35-44,Chennai
+A00367,General,,Hyderabad
+A00368,VIP,18-24,Delhi
+A00369,VIP,unknown,Delhi
+A00370,General,25-34,Pune
+A00371,General,25-34,
+A00372,general,18-24,Bengaluru
+A00373,Day Pass,45+,Delhi
+A00374,general,unknown,Bengaluru
+A00375,Day Pass,unknown,Mumbai
+A00376,general,18-24,Pune
+A00377,Day Pass,,Hyderabad
+A00378,General,45+,
+A00379,Day Pass,,Bengaluru
+A00380,Day Pass,,
+A00381,General,18-24,Delhi
+A00382,general,25-34,Bengaluru
+A00383,VIP,35-44,Delhi
+A00384,Day Pass,unknown,Pune
+A00385,Day Pass,unknown,
+A00386,General,,Bengaluru
+A00387,VIP ,,Mumbai
+A00388,Day Pass,45+,Mumbai
+A00389,Day Pass,35-44,
+A00390,Day Pass,45+,Bengaluru
+A00391,Student,45+,Delhi
+A00392,VIP ,35-44,Delhi
+A00393,VIP,,
+A00394,General,18-24,Bengaluru
+A00395,General,45+,Bengaluru
+A00396,VIP ,,Delhi
+A00397,VIP,unknown,Hyderabad
+A00398,general,unknown,Delhi
+A00399,VIP ,18-24,
+A00400,Student,,
+A00401,VIP ,18-24,Pune
+A00402,general,35-44,Delhi
+A00403,General,unknown,Mumbai
+A00404,VIP,,
+A00405,VIP,18-24,Delhi
+A00406,general,35-44,Bengaluru
+A00407,Student,unknown,Mumbai
+A00408,Day Pass,unknown,Hyderabad
+A00409,general,,Pune
+A00410,General,25-34,Pune
+A00411,VIP ,35-44,Delhi
+A00412,Student,18-24,Chennai
+A00413,VIP,unknown,
+A00414,General,25-34,Hyderabad
+A00415,General,,Mumbai
+A00416,Day Pass,45+,
+A00417,Student,25-34,Delhi
+A00418,Student,,Delhi
+A00419,general,unknown,Bengaluru
+A00420,General,25-34,Chennai
+A00421,general,18-24,Bengaluru
+A00422,Student,45+,
+A00423,Day Pass,unknown,
+A00424,Day Pass,35-44,Mumbai
+A00425,general,18-24,Delhi
+A00426,Day Pass,18-24,Pune
+A00427,VIP ,,
+A00428,general,,Pune
+A00429,General,25-34,
+A00430,general,18-24,Hyderabad
+A00431,VIP,35-44,Mumbai
+A00432,VIP,35-44,Pune
+A00433,Student,18-24,Hyderabad
+A00434,Day Pass,,
+A00435,VIP,25-34,
+A00436,general,,Mumbai
+A00437,general,unknown,Delhi
+A00438,General,45+,Hyderabad
+A00439,Day Pass,18-24,
+A00440,General,35-44,
+A00441,general,45+,
+A00442,Student,18-24,
+A00443,General,35-44,Chennai
+A00444,general,45+,Delhi
+A00445,General,45+,Bengaluru
+A00446,VIP,45+,
+A00447,general,18-24,
+A00448,Student,,Delhi
+A00449,VIP,35-44,Chennai
+A00450,General,unknown,Bengaluru
+A00451,general,unknown,Mumbai
+A00452,Student,35-44,Chennai
+A00453,VIP,18-24,Chennai
+A00454,Student,25-34,Chennai
+A00455,general,25-34,Bengaluru
+A00456,VIP,,
+A00457,Day Pass,unknown,
+A00458,VIP ,unknown,Delhi
+A00459,VIP ,35-44,Chennai
+A00460,Day Pass,18-24,
+A00461,Day Pass,,Pune
+A00462,Student,unknown,Hyderabad
+A00463,Student,unknown,Bengaluru
+A00464,Student,45+,
+A00465,General,18-24,Delhi
+A00466,Student,18-24,Bengaluru
+A00467,general,unknown,
+A00468,Day Pass,unknown,Hyderabad
+A00469,Day Pass,unknown,Mumbai
+A00470,Student,unknown,
+A00471,general,25-34,Hyderabad
+A00472,Day Pass,18-24,Delhi
+A00473,VIP ,18-24,Chennai
+A00474,General,25-34,
+A00475,Day Pass,unknown,Chennai
+A00476,Student,35-44,Pune
+A00477,Day Pass,45+,Delhi
+A00478,VIP ,unknown,Hyderabad
+A00479,VIP ,,Delhi
+A00480,General,35-44,Bengaluru
+A00481,general,,
+A00482,Student,35-44,Chennai
+A00483,Student,18-24,Chennai
+A00484,Student,35-44,
+A00485,VIP,unknown,Bengaluru
+A00486,Student,unknown,
+A00487,VIP ,35-44,Chennai
+A00488,VIP ,,Bengaluru
+A00489,VIP ,,
+A00490,general,35-44,Hyderabad
+A00491,Student,35-44,Chennai
+A00492,VIP,35-44,
+A00493,VIP,25-34,Chennai
+A00494,VIP,18-24,Pune
+A00495,General,unknown,Hyderabad
+A00496,VIP ,35-44,Chennai
+A00497,general,45+,Chennai
+A00498,VIP,25-34,Chennai
+A00499,VIP ,45+,Hyderabad
+A00500,Day Pass,35-44,Mumbai
+A00501,Day Pass,unknown,Pune
+A00502,VIP ,45+,Mumbai
+A00503,general,25-34,Pune
+A00504,Day Pass,25-34,Delhi
+A00505,VIP ,unknown,
+A00506,Day Pass,35-44,
+A00507,general,unknown,
+A00508,VIP,25-34,Chennai
+A00509,Student,18-24,
+A00510,Student,unknown,Bengaluru
+A00511,VIP ,unknown,Bengaluru
+A00512,Student,18-24,Chennai
+A00513,Student,45+,Chennai
+A00514,Day Pass,18-24,Mumbai
+A00515,Day Pass,35-44,Hyderabad
+A00516,Day Pass,18-24,
+A00517,general,35-44,Mumbai
+A00518,Day Pass,18-24,Delhi
+A00519,VIP,18-24,Delhi
+A00520,General,,Delhi
+A00521,VIP,25-34,Hyderabad
+A00522,Student,45+,Chennai
+A00523,VIP ,45+,
+A00524,general,18-24,Bengaluru
+A00525,General,35-44,Mumbai
+A00526,VIP,unknown,
+A00527,General,35-44,Mumbai
+A00528,Student,18-24,Hyderabad
+A00529,VIP,45+,
+A00530,General,18-24,
+A00531,general,unknown,Hyderabad
+A00532,VIP ,unknown,Mumbai
+A00533,VIP ,25-34,Pune
+A00534,Day Pass,18-24,Delhi
+A00535,VIP,unknown,
+A00536,VIP,,Bengaluru
+A00537,general,35-44,Bengaluru
+A00538,general,unknown,Hyderabad
+A00539,Day Pass,45+,Hyderabad
+A00540,VIP ,45+,Delhi
+A00541,Student,,Hyderabad
+A00542,Student,18-24,Delhi
+A00543,VIP,,Bengaluru
+A00544,general,,Delhi
+A00545,VIP,18-24,Delhi
+A00546,general,35-44,Chennai
+A00547,VIP ,45+,
+A00548,VIP ,25-34,Chennai
+A00549,General,,
+A00550,General,35-44,Mumbai
+A00551,General,25-34,Hyderabad
+A00552,Student,35-44,
+A00553,general,45+,Pune
+A00554,General,,Mumbai
+A00555,Student,35-44,Hyderabad
+A00556,VIP ,35-44,Pune
+A00557,General,35-44,
+A00558,Day Pass,,
+A00559,Day Pass,35-44,Chennai
+A00560,Day Pass,,
+A00561,Student,unknown,Pune
+A00562,General,,
+A00563,General,45+,Chennai
+A00564,general,35-44,Delhi
+A00565,General,18-24,Delhi
+A00566,VIP ,35-44,Pune
+A00567,Day Pass,unknown,
+A00568,VIP,,
+A00569,Student,45+,Hyderabad
+A00570,VIP ,35-44,
+A00571,Student,,Hyderabad
+A00572,General,,
+A00573,Student,unknown,Chennai
+A00574,General,25-34,
+A00575,General,25-34,Bengaluru
+A00576,VIP,,Delhi
+A00577,Student,45+,Hyderabad
+A00578,general,25-34,
+A00579,Student,35-44,
+A00580,General,unknown,Chennai
+A00581,general,35-44,
+A00582,Student,,Pune
+A00583,VIP,18-24,Hyderabad
+A00584,VIP ,25-34,
+A00585,general,45+,Bengaluru
+A00586,Student,35-44,
+A00587,VIP,unknown,Pune
+A00588,VIP ,45+,Mumbai
+A00589,General,25-34,Bengaluru
+A00590,Day Pass,25-34,
+A00591,General,,Delhi
+A00592,VIP ,35-44,Bengaluru
+A00593,general,unknown,Pune
+A00594,Student,25-34,Chennai
+A00595,Student,unknown,Mumbai
+A00596,General,25-34,Chennai
+A00597,VIP,45+,Hyderabad
+A00598,Student,unknown,Delhi
+A00599,Day Pass,unknown,Chennai
+A00600,general,18-24,Bengaluru
+A00601,Student,45+,
+A00602,general,45+,
+A00603,general,18-24,Chennai
+A00604,Student,,Bengaluru
+A00605,Day Pass,45+,Delhi
+A00606,VIP,unknown,Chennai
+A00607,VIP,45+,Hyderabad
+A00608,General,unknown,Chennai
+A00609,Student,25-34,Chennai
+A00610,Student,,Mumbai
+A00611,Student,unknown,Pune
+A00612,General,35-44,Mumbai
+A00613,VIP ,unknown,Pune
+A00614,VIP,,Pune
+A00615,general,unknown,Bengaluru
+A00616,general,,Chennai
+A00617,general,unknown,Chennai
+A00618,VIP,,Delhi
+A00619,general,18-24,Hyderabad
+A00620,General,18-24,Pune
+A00621,VIP ,25-34,
+A00622,general,,Hyderabad
+A00623,Day Pass,,Pune
+A00624,VIP ,35-44,
+A00625,VIP,,
+A00626,Student,45+,Bengaluru
+A00627,VIP ,18-24,Chennai
+A00628,Day Pass,45+,
+A00629,Day Pass,25-34,Delhi
+A00630,general,25-34,Delhi
+A00631,VIP ,35-44,Delhi
+A00632,Day Pass,25-34,Delhi
+A00633,general,unknown,Bengaluru
+A00634,Student,25-34,
+A00635,General,35-44,
+A00636,VIP,25-34,Bengaluru
+A00637,General,35-44,
+A00638,general,45+,Mumbai
+A00639,VIP,35-44,Delhi
+A00640,VIP,25-34,
+A00641,general,45+,
+A00642,Student,45+,Hyderabad
+A00643,General,45+,
+A00644,VIP,25-34,Delhi
+A00645,General,18-24,Pune
+A00646,Day Pass,unknown,
+A00647,Student,unknown,Hyderabad
+A00648,General,45+,Chennai
+A00649,Student,,Delhi
+A00650,Day Pass,35-44,Hyderabad
+A00651,Day Pass,18-24,Mumbai
+A00652,Student,unknown,Pune
+A00653,General,45+,
+A00654,general,35-44,Bengaluru
+A00655,VIP,18-24,
+A00656,Student,35-44,Delhi
+A00657,VIP,25-34,
+A00658,general,18-24,Hyderabad
+A00659,General,25-34,Delhi
+A00660,Day Pass,unknown,
+A00661,VIP,unknown,Chennai
+A00662,Student,unknown,Delhi
+A00663,VIP,45+,Pune
+A00664,general,35-44,
+A00665,VIP ,unknown,Pune
+A00666,Day Pass,18-24,Delhi
+A00667,Student,,Bengaluru
+A00668,Day Pass,unknown,Pune
+A00669,VIP ,,Hyderabad
+A00670,general,45+,Pune
+A00671,VIP ,unknown,Mumbai
+A00672,VIP ,18-24,
+A00673,VIP,unknown,
+A00674,VIP,,Mumbai
+A00675,General,unknown,Bengaluru
+A00676,VIP,18-24,
+A00677,Student,45+,Chennai
+A00678,Day Pass,,Mumbai
+A00679,Day Pass,unknown,
+A00680,VIP ,,Hyderabad
+A00681,VIP ,25-34,Mumbai
+A00682,general,35-44,
+A00683,general,45+,Delhi
+A00684,VIP,45+,Delhi
+A00685,general,35-44,Pune
+A00686,general,45+,Mumbai
+A00687,VIP,35-44,Pune
+A00688,VIP,35-44,Pune
+A00689,VIP ,25-34,
+A00690,Student,45+,Delhi
+A00691,general,,Pune
+A00692,Student,18-24,
+A00693,Day Pass,35-44,Chennai
+A00694,Student,18-24,Pune
+A00695,VIP ,18-24,Delhi
+A00696,Day Pass,,Pune
+A00697,VIP ,45+,Mumbai
+A00698,VIP,unknown,Pune
+A00699,general,,Pune
+A00700,VIP,18-24,Mumbai
+A00701,VIP,18-24,Mumbai
+A00702,VIP ,25-34,Hyderabad
+A00703,General,45+,Delhi
+A00704,VIP ,45+,Bengaluru
+A00705,VIP ,25-34,Hyderabad
+A00706,general,25-34,
+A00707,VIP ,45+,
+A00708,VIP ,25-34,Pune
+A00709,Student,35-44,Hyderabad
+A00710,General,,Mumbai
+A00711,general,,Hyderabad
+A00712,VIP,45+,Chennai
+A00713,General,45+,
+A00714,VIP,,Pune
+A00715,General,18-24,Pune
+A00716,general,unknown,Bengaluru
+A00717,Student,35-44,
+A00718,VIP ,unknown,
+A00719,VIP,unknown,
+A00720,Student,25-34,Bengaluru
+A00721,Student,25-34,
+A00722,VIP ,35-44,Chennai
+A00723,General,,Delhi
+A00724,Student,unknown,Mumbai
+A00725,VIP,unknown,
+A00726,Day Pass,unknown,Delhi
+A00727,General,45+,Bengaluru
+A00728,VIP,25-34,
+A00729,Student,25-34,Hyderabad
+A00730,Student,45+,Mumbai
+A00731,Day Pass,35-44,Delhi
+A00732,Student,unknown,Hyderabad
+A00733,Student,,Delhi
+A00734,VIP ,25-34,Hyderabad
+A00735,VIP ,18-24,
+A00736,Student,25-34,
+A00737,VIP ,unknown,Pune
+A00738,VIP ,18-24,Pune
+A00739,Student,unknown,Mumbai
+A00740,VIP,25-34,
+A00741,VIP,45+,Delhi
+A00742,Day Pass,,
+A00743,general,,Mumbai
+A00744,VIP,,Bengaluru
+A00745,general,45+,Delhi
+A00746,General,unknown,Bengaluru
+A00747,General,unknown,Mumbai
+A00748,general,unknown,Chennai
+A00749,VIP,35-44,
+A00750,General,,Mumbai
+A00751,VIP ,unknown,
+A00752,General,unknown,
+A00753,General,45+,Chennai
+A00754,general,45+,
+A00755,general,18-24,
+A00756,VIP ,35-44,Hyderabad
+A00757,Day Pass,35-44,Hyderabad
+A00758,VIP ,25-34,Bengaluru
+A00759,General,45+,Delhi
+A00760,VIP ,18-24,Hyderabad
+A00761,General,45+,Hyderabad
+A00762,Student,45+,Chennai
+A00763,VIP,,
+A00764,Student,45+,
+A00765,Day Pass,45+,Bengaluru
+A00766,VIP ,,Chennai
+A00767,VIP ,35-44,Bengaluru
+A00768,VIP,unknown,
+A00769,general,25-34,Mumbai
+A00770,General,18-24,Pune
+A00771,Day Pass,,
+A00772,general,45+,Mumbai
+A00773,VIP,45+,Delhi
+A00774,VIP,35-44,Mumbai
+A00775,VIP ,18-24,Hyderabad
+A00776,VIP ,45+,Hyderabad
+A00777,VIP,25-34,Bengaluru
+A00778,General,unknown,Hyderabad
+A00779,Day Pass,unknown,Hyderabad
+A00780,VIP,,Hyderabad
+A00781,Day Pass,45+,Mumbai
+A00782,general,25-34,Hyderabad
+A00783,VIP,unknown,Pune
+A00784,VIP,,Delhi
+A00785,general,unknown,Delhi
+A00786,VIP,35-44,Chennai
+A00787,VIP ,unknown,Mumbai
+A00788,Day Pass,35-44,Pune
+A00789,General,unknown,Chennai
+A00790,VIP ,,
+A00791,general,45+,Hyderabad
+A00792,Student,,
+A00793,general,35-44,
+A00794,Day Pass,25-34,Pune
+A00795,Day Pass,25-34,
+A00796,VIP,25-34,Pune
+A00797,VIP ,25-34,
+A00798,General,unknown,
+A00799,Day Pass,unknown,Chennai
+A00800,Day Pass,25-34,Pune
+A00801,VIP,35-44,Bengaluru
+A00802,Day Pass,35-44,Bengaluru
+A00803,general,,Mumbai
+A00804,General,35-44,
+A00805,VIP ,unknown,Hyderabad
+A00806,General,25-34,Mumbai
+A00807,Day Pass,25-34,Delhi
+A00808,Student,18-24,Mumbai
+A00809,VIP,,Bengaluru
+A00810,VIP ,45+,Mumbai
+A00811,VIP ,unknown,Mumbai
+A00812,Day Pass,25-34,Delhi
+A00813,Student,45+,
+A00814,general,,Delhi
+A00815,Student,35-44,Delhi
+A00816,general,45+,
+A00817,General,,
+A00818,Student,25-34,Delhi
+A00819,Student,45+,Hyderabad
+A00820,general,25-34,Chennai
+A00821,General,35-44,
+A00822,Student,25-34,Mumbai
+A00823,Student,25-34,
+A00824,general,25-34,
+A00825,general,,Delhi
+A00826,Student,45+,
+A00827,Day Pass,25-34,Delhi
+A00828,VIP,25-34,
+A00829,VIP,unknown,Hyderabad
+A00830,general,18-24,Bengaluru
+A00831,VIP ,18-24,Hyderabad
+A00832,Day Pass,25-34,Mumbai
+A00833,General,,Chennai
+A00834,General,25-34,
+A00835,Student,18-24,
+A00836,VIP ,45+,Hyderabad
+A00837,General,unknown,
+A00838,General,18-24,Pune
+A00839,general,35-44,Hyderabad
+A00840,general,,
+A00841,VIP,18-24,Bengaluru
+A00842,general,25-34,Mumbai
+A00843,VIP,unknown,Pune
+A00844,Student,35-44,
+A00845,General,35-44,
+A00846,Day Pass,unknown,Mumbai
+A00847,VIP ,25-34,Pune
+A00848,VIP ,18-24,Hyderabad
+A00849,General,45+,
+A00850,Day Pass,unknown,
+A00851,General,,Hyderabad
+A00852,VIP ,25-34,Bengaluru
+A00853,Day Pass,45+,Delhi
+A00854,general,18-24,Hyderabad
+A00855,VIP,25-34,
+A00856,Student,18-24,Bengaluru
+A00857,VIP ,35-44,Hyderabad
+A00858,VIP,35-44,Hyderabad
+A00859,VIP,unknown,Chennai
+A00860,VIP ,45+,Bengaluru
+A00861,Student,25-34,Mumbai
+A00862,general,45+,Delhi
+A00863,Day Pass,,Chennai
+A00864,VIP ,,Bengaluru
+A00865,general,,Delhi
+A00866,General,18-24,
+A00867,VIP,18-24,Delhi
+A00868,general,unknown,
+A00869,Student,18-24,Pune
+A00870,Day Pass,45+,Mumbai
+A00871,Student,unknown,
+A00872,Day Pass,25-34,
+A00873,General,unknown,Pune
+A00874,VIP,,Bengaluru
+A00875,General,35-44,Chennai
+A00876,Day Pass,,Chennai
+A00877,VIP ,45+,Delhi
+A00878,Student,18-24,Bengaluru
+A00879,General,35-44,
+A00880,Student,35-44,Bengaluru
+A00881,VIP,18-24,Chennai
+A00882,Day Pass,45+,
+A00883,General,18-24,Bengaluru
+A00884,Student,unknown,Bengaluru
+A00885,general,unknown,Delhi
+A00886,Day Pass,18-24,Pune
+A00887,Day Pass,45+,Bengaluru
+A00888,VIP ,unknown,Mumbai
+A00889,general,unknown,Chennai
+A00890,VIP ,45+,Chennai
+A00891,VIP,35-44,Pune
+A00892,Student,45+,Chennai
+A00893,General,25-34,
+A00894,Student,45+,Pune
+A00895,Day Pass,18-24,Delhi
+A00896,Student,25-34,
+A00897,general,unknown,Mumbai
+A00898,Day Pass,18-24,Chennai
+A00899,Student,18-24,
+A00900,Student,unknown,
+A00901,Student,45+,Delhi
+A00902,Day Pass,,Chennai
+A00903,Student,35-44,Mumbai
+A00904,Day Pass,35-44,Chennai
+A00905,Day Pass,35-44,Pune
+A00906,VIP ,,
+A00907,general,25-34,Delhi
+A00908,Day Pass,35-44,
+A00909,Student,18-24,Mumbai
+A00910,general,unknown,Chennai
+A00911,VIP ,unknown,Hyderabad
+A00912,VIP ,45+,Mumbai
+A00913,Day Pass,35-44,Bengaluru
+A00914,Day Pass,,
+A00915,VIP,,Pune
+A00916,VIP,35-44,Chennai
+A00917,VIP ,45+,
+A00918,General,45+,
+A00919,general,45+,
+A00920,general,18-24,Delhi
+A00921,VIP ,unknown,Bengaluru
+A00922,General,25-34,Delhi
+A00923,VIP,,Hyderabad
+A00924,general,,
+A00925,Student,45+,Bengaluru
+A00926,General,18-24,Pune
+A00927,VIP,unknown,Mumbai
+A00928,Day Pass,35-44,
+A00929,Day Pass,,Chennai
+A00930,Student,18-24,
+A00931,General,35-44,
+A00932,General,18-24,Chennai
+A00933,Student,35-44,Delhi
+A00934,Day Pass,25-34,
+A00935,Student,45+,Bengaluru
+A00936,Day Pass,,
+A00937,Student,18-24,Pune
+A00938,General,,Bengaluru
+A00939,General,35-44,Bengaluru
+A00940,VIP ,25-34,Mumbai
+A00941,general,25-34,Chennai
+A00942,Student,unknown,
+A00943,Day Pass,25-34,
+A00944,VIP ,25-34,Chennai
+A00945,VIP ,,
+A00946,Day Pass,18-24,Mumbai
+A00947,Day Pass,unknown,
+A00948,Day Pass,18-24,Mumbai
+A00949,VIP,35-44,Bengaluru
+A00950,general,18-24,Chennai
+A00951,Student,35-44,Mumbai
+A00952,Day Pass,18-24,Pune
+A00953,VIP ,45+,Delhi
+A00954,general,45+,
+A00955,general,18-24,Delhi
+A00956,Student,45+,Chennai
+A00957,VIP ,,Pune
+A00958,general,unknown,Bengaluru
+A00959,VIP ,25-34,Delhi
+A00960,General,25-34,Pune
+A00961,General,25-34,Delhi
+A00962,VIP ,25-34,
+A00963,Day Pass,unknown,Chennai
+A00964,general,45+,
+A00965,VIP,45+,Chennai
+A00966,general,25-34,
+A00967,Student,25-34,Chennai
+A00968,Student,45+,Hyderabad
+A00969,Student,18-24,
+A00970,VIP,25-34,
+A00971,general,unknown,
+A00972,Day Pass,,
+A00973,Day Pass,,
+A00974,Day Pass,25-34,Bengaluru
+A00975,general,18-24,Mumbai
+A00976,Student,18-24,Pune
+A00977,VIP,unknown,Pune
+A00978,VIP,45+,
+A00979,general,unknown,Bengaluru
+A00980,general,18-24,Pune
+A00981,general,35-44,Hyderabad
+A00982,VIP ,45+,Mumbai
+A00983,Day Pass,18-24,Mumbai
+A00984,Student,18-24,
+A00985,Student,35-44,Bengaluru
+A00986,Day Pass,18-24,Mumbai
+A00987,VIP,,Delhi
+A00988,VIP ,unknown,
+A00989,VIP,unknown,Chennai
+A00990,VIP,25-34,Hyderabad
+A00991,general,35-44,Pune
+A00992,general,unknown,Chennai
+A00993,Student,,Pune
+A00994,Student,unknown,Pune
+A00995,general,,Bengaluru
+A00996,VIP,45+,Hyderabad
+A00997,Student,,Chennai
+A00998,VIP ,25-34,Mumbai
+A00999,VIP,,Delhi
+A01000,VIP,,

@@ -1,0 +1,7 @@
+stall_id,stall_name,cuisine,stage_id
+FS01,Spice Route,Indian,ST01
+FS02,Noodle Lab,Asian,ST02
+FS03,Green Fork,Vegan,ST03
+FS04,Burger Orbit,Fast Food,ST01
+FS05,Sweet Static,Dessert,ST04
+FS06,Taco Tempo,Mexican,ST05

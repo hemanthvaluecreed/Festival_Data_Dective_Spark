@@ -1,0 +1,9 @@
+@"
+.spark/
+.venv/
+venv/
+__pycache__/
+*.pyc
+spark-temp/
+.ipynb_checkpoints/
+"@ | Set-Content .gitignore

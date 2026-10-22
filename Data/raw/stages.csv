@@ -1,0 +1,6 @@
+stage_id,stage_name,capacity,zone
+ST01,Main Stage,8500,North
+ST02,River Stage,4200,East
+ST03,Sunset Tent,2600,South
+ST04,Indie Corner,1800,West
+ST05,Rooftop Beats,1200,Central
